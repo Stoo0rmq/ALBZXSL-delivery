@@ -28,9 +28,9 @@ Put "abz-shell.rb" on the following path: ~/.msf4/modules/auxiliary/
 
 ## How do I run this module?
 Once MSF is loaded:
-    1- use auxiliary/windows/albzxml-delivery
-    2- set LHOST,LPORT,RESOURCE (full path to .PS1) at least
-    3- run the provided command on the scompromised machine
+    1 - use auxiliary/windows/albzxml-delivery
+    2 - set LHOST,LPORT,RESOURCE (full path to .PS1) at least
+    3 - run the provided command on the scompromised machine
 
 
 
